@@ -10,9 +10,9 @@ order: 4
 * **Email :** okmy912@ajou.ac.kr
 
 ## Research Interests
-My research interests lie in the security of embedded and real-time systems. I focus on discovering vulnerabilities in RTOS-based software through fuzzing and code auditing, currently targeting NASA's core Flight System (cFS) running on RTEMS.
+My research interests lie in offensive security for embedded and real-time systems. I focus on vulnerability research in real-time operating systems (RTOS) and the software built on them, combining manual code auditing with fuzzing. I am also interested in automating vulnerability detection for these environments, where timing constraints and limited observability make conventional tools less effective. Currently, I am targeting NASA’s core Flight System (cFS) running on RTEMS.
 
-* **Keywords :** Embedded Systems Security, RTOS Security, Vulnerability Research, Fuzzing, Flight Software Security
+- Keywords: Embedded Systems Security, RTOS Security, Real-Time Systems, Offensive Security, Vulnerability Research, Fuzzing, Automated Vulnerability Detection, Flight Software Security
 
 ## Organization
 * **2025 ~ Present :** Ajou University (Cyber Security)
