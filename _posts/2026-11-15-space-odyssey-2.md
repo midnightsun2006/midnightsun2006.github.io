@@ -1,6 +1,6 @@
 ---
 title: "[Paper Review] Space Odyssey: An Experimental Software Security Analysis of Satellites - week 2"
-date: 2026-11-15 22:53:00 +0900
+date: 2026-11-15 23:43:21 +0900
 categories: [Paper Review, Satellite Security]
 tags: [satellite, space-security, firmware, moonlight]
 media_subpath: /assets/img/posts/space-odyssey-2
@@ -8,9 +8,7 @@ media_subpath: /assets/img/posts/space-odyssey-2
 ---
 
 ## 이번 주차 - week 2
-2장 Satellite Context와 3.1 Threat Taxonomy를 읽고 이해하였다.
-
-논문의 자세한 정보는 [여기](https://ieeexplore.ieee.org/document/10351029)에서 확인할 수 있다.
+2장 Satellite Context와 3장 Satellite Firmware Threats를 읽고 이해하였다.
 
 ## 2. Satellite Context
 
@@ -425,9 +423,8 @@ COM / PLCOM은 네 기준을 Bypass Access Control 하나로 묶고, UDHS와 Dat
 
 ### 읽으면서 헷갈렸던 부분
 
-- payload와 bus: 보안 분야의 exploit payload, data bus와 뜻이 다른 위성 공학 용어다.
+- payload와 bus: 보안 분야의 exploit payload, data bus와 뜻이 다른 위성 용어다.
 - PLCOM: 통신 장비지만 임무 수행용이라 payload에 속한다.
-- interface layer: OSI 통신 계층이 아니라 taxonomy의 세 번째 단계다.
 - Critical TC와 Dangerous TC: Critical TC는 payload에 열어 준 것이, Dangerous TC는 존재 자체가 문제다.
 - UDHS: 2.2절의 위성 구조에는 없고 3.1.2절에서 추가된 component다.
 
