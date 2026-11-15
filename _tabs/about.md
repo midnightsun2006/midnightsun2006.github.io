@@ -10,7 +10,7 @@ order: 4
 * **Email :** okmy912@ajou.ac.kr
 
 ## Research Interests
-My research interests lie in offensive security for embedded and real-time systems. I focus on vulnerability research in real-time operating systems (RTOS) and the software built on them, combining manual code auditing with fuzzing. I am also interested in automating vulnerability detection for these environments, where timing constraints and limited observability make conventional tools less effective. Currently, I am targeting NASA’s core Flight System (cFS) running on RTEMS.
+My research interests lie in the security of embedded and real-time systems, with a focus on space flight software. I study how the architecture of real-time operating systems (RTOS) and the frameworks built on them, such as task scheduling, inter-task messaging, and command and telemetry interfaces, shapes their attack surface, and how a compromise in one component propagates through a mission-critical system. Building on this, I am interested in automating the detection of such cross-component vulnerabilities, where timing constraints and limited observability make conventional tools less effective. Currently, I am working with NASA’s core Flight System (cFS) running on RTEMS.
 
 - Keywords: Embedded Systems Security, RTOS Security, Real-Time Systems, Offensive Security, Vulnerability Research, Fuzzing, Automated Vulnerability Detection, Flight Software Security
 
@@ -27,6 +27,7 @@ My research interests lie in offensive security for embedded and real-time syste
 
 ## Awards
 * **2026 :** 2026 HACKSIUM BUSAN Finalist - Ministry of Science and ICT
+* **2026 :** 2026 HyperSonic CTF (1st) - HyperSonic, Hspace
 * **2025 :** KDFS Challenge 2025 Top Award (2nd) - Korean National Police Agency
 * **2025 :** AjouHackathon Top Award (1st) - Ajou University
 * **2023 :** CPS Festival Bronze Award (High School) - Daegu Technopark
